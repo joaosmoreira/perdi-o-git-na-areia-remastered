@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GITnaAreia_Remastered:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91cbd442-dd9b-4971-b29a-338187542ae3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ljv0NnswWl4JpBgjYMRd3jzzP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/codecadet/Desktop/gittyFinal copy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/resources/META-INF" />
+      <recent name="C:\Users\sami_\Desktop\workspace\gitty\resources" />
+      <recent name="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp/oportunity/simplegrid" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="C:\Users\sami_\Desktop\workspace\gitty\resources\music" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.academiadecodigo.bootcamp.oportunity.FallingObjects" />
+      <recent name="org.academiadecodigo.bootcamp.oportunity.simplegrid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Git na areia">
+    <configuration name="Git na areia" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.bootcamp.oportunity.Main" />
+      <module name="GITnaAreia_Remastered" />
+      <option name="PROGRAM_PARAMETERS" value="Build" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Git na areia bro" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/gitty_jar/gitty.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\joaos\Desktop\gittyFinal" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Git na areia" />
+      <item itemvalue="JAR Application.Git na areia bro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Git na areia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91cbd442-dd9b-4971-b29a-338187542ae3" name="Changes" comment="" />
+      <created>1676397083559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676397083559</updated>
+      <workItem from="1676397084632" duration="105000" />
+      <workItem from="1676397217655" duration="1902000" />
+      <workItem from="1676484229314" duration="3026000" />
+      <workItem from="1676487270719" duration="4421000" />
+      <workItem from="1676573726192" duration="8182000" />
+      <workItem from="1676626264340" duration="1374000" />
+      <workItem from="1676657321815" duration="5790000" />
+      <workItem from="1676664503943" duration="2000" />
+      <workItem from="1676664726463" duration="31321000" />
+      <workItem from="1676747598763" duration="13486000" />
+      <workItem from="1676814598114" duration="228000" />
+      <workItem from="1676814909629" duration="1897000" />
+      <workItem from="1676816828908" duration="2227000" />
+      <workItem from="1676824111319" duration="6234000" />
+      <workItem from="1676831663588" duration="4757000" />
+      <workItem from="1676837124122" duration="3237000" />
+      <workItem from="1676901662133" duration="161000" />
+      <workItem from="1676905676696" duration="887000" />
+      <workItem from="1677167294899" duration="12000" />
+      <workItem from="1677168414569" duration="60000" />
+      <workItem from="1677168610902" duration="1018000" />
+      <workItem from="1677171048980" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
